@@ -1,4 +1,4 @@
-<!-- I studied the general knowledge of Git and Github.
+I studied the general knowledge of Git and Github.
 (commit , clone , terminal short cut etc.)
 
 
@@ -14,4 +14,4 @@ Practice process
 9. git commit -m "메세지" ( 커밋 -"메시지")
 10. git log(check the commit history )
 11. git remote add origin repository 주소 (로컬안에 있는 폴더와 깃레포 연동)
-12. git push origin main -->
+12. git push origin main 
