@@ -1,0 +1,123 @@
+.profile-pic-1{
+    width: 40px;
+    height:40px;
+    border-radius:50%;
+    margin-right:5px;
+}
+.feeds-profile{
+    display:flex;
+    flex:1;
+    margin:30px;
+    flex-direction: column;
+}
+.feeds-pic{
+    display: flex;
+    flex:1;
+}
+#picture{
+    width:80%;
+    height:400px;
+}
+ .main-profile-box{
+     display: flex;
+     flex:0.5;
+ }
+ .comment-icon{
+     width:80%;
+ }
+ 
+ .comment-left-icon{
+    margin: 5px 10px 0px 5px;;
+ }
+ .icon{
+     margin-right:10px;
+ }
+
+ .comment-profile-pic{
+     width:30px;
+     height:30px;
+     border-radius:50%;
+     margin:5px;
+ }
+
+ .likes-profile{
+     display:flex;
+     align-items:center;
+ }
+
+.main-feeds{
+    display:flex;
+    flex: 1;
+    flex-direction: column;
+}
+.comment-icon{
+    display:flex;
+    justify-content: space-between;
+    
+    
+}
+.feeds-footer{
+    display:flex;
+    flex:1;
+    flex-direction: column;
+}
+.comment-left-icon{
+    display:flex;
+}
+
+.comment-icon{
+    width:80%;
+}
+.submit-form{
+    display:flex;
+    flex:1;
+
+}
+.comment-box{
+    display:flex;
+    flex:1;
+    width:400px;
+}
+
+.comment-child{
+    display:flex;
+    flex-direction:row;
+    
+}
+
+.comment-child p:nth-child(1){
+    margin-right: 10px;
+    font-weight: bolder;
+}
+
+#input-comment{
+    display:flex;
+    flex:1;
+    flex-direction: column;
+}
+.input-comment-text{
+    display:flex;
+    flex-direction: row;
+}
+
+#input-comment-view{
+    display:flex;
+    flex-direction: column;
+}
+
+.font{
+    font-family: 'Jua', sans-serif;
+    font-size:20px;
+}
+
+.comment{
+    display: flex;
+    flex-direction: column;
+}
+
+#input-text{
+    display:flex;
+    flex:0.5;
+    border:0px;
+    
+}
